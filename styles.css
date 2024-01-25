@@ -1,0 +1,53 @@
+#cajaGrande {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja {
+    height: 5em;
+    width: 5em;
+    margin: 1em;
+    background-color: aliceblue;
+    transition: 2s;
+    cursor: pointer;
+}
+
+.caja:hover {
+    transition: 1s;
+    border-radius: 40%;
+}
+
+#caja1 {
+    background-color: blueviolet;
+}
+#caja2 {
+    background-color: red;
+}
+#caja3 {
+    background-color: yellow;
+}
+#caja4 {
+    background-color: whitesmoke;
+}
+#caja5 {
+    background-color: olive;
+}
+#caja6 {
+    background-color: orangered;
+}
+#caja7 {
+    background-color: purple;
+}
+#caja8 {
+    background-color: blue;
+}
+#caja9 {
+    background-color: gray;
+}
+#caja10 {
+    background-color: turquoise;
+}
